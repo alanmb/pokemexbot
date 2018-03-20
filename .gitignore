@@ -15,12 +15,12 @@ logs
 *.log
 
 # Data
-data/*.js
-data/*.json
-data/_temp
-!data/typechart.js
-!data/*-example.js
-features/battle/battle-ai/temp
+#data/*.js
+#data/*.json
+#data/_temp
+#!data/typechart.js
+#!data/*-example.js
+#features/battle/battle-ai/temp
 
 # Runtime data
 pids
